@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +54,7 @@
       <updated>1633440261015</updated>
       <workItem from="1633440266644" duration="2313000" />
       <workItem from="1633448413994" duration="528000" />
+      <workItem from="1633449051026" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1633448488235</created>
@@ -85,10 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1243" y="309" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1633440690996" />
-    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1633448432703">
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1633449104908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633448432703" />
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633449104908" />
     <state x="1318" y="417" key="Github.ShareDialog" timestamp="1633448524349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
