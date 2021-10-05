@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f968649-81ec-4754-980b-f7879a2e6a4f" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mongo_js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.idea/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/json/restoreFromJson.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/res/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/debug/debugManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generatedData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/carGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/clientGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/generator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/markGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/orderGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/placeGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/generators/workerGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/imports/generators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/imports/infos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/carInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/clientInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/markInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/orderInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/placeInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/infos/workerInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/mongo/mongo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/queries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/queries/query9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/sql/sql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/scripts/sql/sqlFiller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/start.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.idea/server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/nodemon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/mongo/mongo.js" afterDir="false" />
-    </list>
+    <list default="true" id="0f968649-81ec-4754-980b-f7879a2e6a4f" name="Default Changelist" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633440261015</updated>
       <workItem from="1633440266644" duration="2313000" />
-      <workItem from="1633448413994" duration="353000" />
+      <workItem from="1633448413994" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1633448488235</created>
@@ -118,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633448488235</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1633448780679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633448780679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,10 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="884" y="230" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1633441657958" />
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633448500425">
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633448808053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633448500425" />
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633448808053" />
     <state x="1215" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1633448473622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
