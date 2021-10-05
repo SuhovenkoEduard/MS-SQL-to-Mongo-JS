@@ -1,0 +1,507 @@
+{
+  "Marks": [
+    {
+      "Id": 1,
+      "Name": "Audi",
+      "Description": "Седан"
+    },
+    {
+      "Id": 2,
+      "Name": "BMW",
+      "Description": "Универсал"
+    },
+    {
+      "Id": 3,
+      "Name": "Ford",
+      "Description": "Лимузин"
+    },
+    {
+      "Id": 4,
+      "Name": "Honda",
+      "Description": "Седан"
+    },
+    {
+      "Id": 5,
+      "Name": "Hyundai",
+      "Description": "Хэтчбек"
+    },
+    {
+      "Id": 6,
+      "Name": "Kia",
+      "Description": "Универсал"
+    },
+    {
+      "Id": 7,
+      "Name": "Lada",
+      "Description": "Хэтчбек"
+    },
+    {
+      "Id": 8,
+      "Name": "Mazda",
+      "Description": "Седан"
+    }
+  ],
+  "Places": [
+    {
+      "Id": 1,
+      "Name": "Manager",
+      "Salary": 2423,
+      "Description": "Коммуникабельный"
+    },
+    {
+      "Id": 2,
+      "Name": "Administrator",
+      "Salary": 2236,
+      "Description": "Коммуникабельный"
+    },
+    {
+      "Id": 3,
+      "Name": "Security",
+      "Salary": 1696,
+      "Description": "Веселый"
+    }
+  ],
+  "Workers": [
+    {
+      "Id": 1,
+      "FullName": "Павлик Феликс",
+      "Passport": "4585 803859",
+      "PlaceId": 1
+    },
+    {
+      "Id": 2,
+      "FullName": "Мухин Устин",
+      "Passport": "4234 805030",
+      "PlaceId": 2
+    },
+    {
+      "Id": 3,
+      "FullName": "Князев Кир",
+      "Passport": "4311 909220",
+      "PlaceId": 3
+    },
+    {
+      "Id": 4,
+      "FullName": "Павлов Остин",
+      "Passport": "4725 973258",
+      "PlaceId": 1
+    },
+    {
+      "Id": 5,
+      "FullName": "Шестаков Спартак",
+      "Passport": "4397 540267",
+      "PlaceId": 3
+    },
+    {
+      "Id": 6,
+      "FullName": "Шуфрич Цилла",
+      "Passport": "4397 540267",
+      "PlaceId": 3
+    },
+    {
+      "Id": 7,
+      "FullName": "Фёдорова Фаина",
+      "Passport": "4282 647644",
+      "PlaceId": 2
+    },
+    {
+      "Id": 8,
+      "FullName": "Кравченко Таисия",
+      "Passport": "4282 647644",
+      "PlaceId": 1
+    },
+    {
+      "Id": 9,
+      "FullName": "Житар Цилла",
+      "Passport": "4632 320797",
+      "PlaceId": 2
+    },
+    {
+      "Id": 10,
+      "FullName": "Цветкова Клара",
+      "Passport": "4444 164175",
+      "PlaceId": 2
+    }
+  ],
+  "Cars": [
+    {
+      "Id": 1,
+      "TechnicalSpecification": "Max speed 200.",
+      "RegistryNumber": 3974,
+      "Description": "Brown",
+      "BodyNumber": "80020",
+      "EngineNumber": "116",
+      "YearOfRelease": 1981,
+      "Mileage": 575,
+      "CarPrice": "18330",
+      "RentalPrice": "781",
+      "DateOfLastMaintenance": "2002-10-31T21:00:00.000Z",
+      "MarkId": 5
+    },
+    {
+      "Id": 2,
+      "TechnicalSpecification": "Max speed 110.",
+      "RegistryNumber": 8496,
+      "Description": "Black",
+      "BodyNumber": "99812",
+      "EngineNumber": "643",
+      "YearOfRelease": 2005,
+      "Mileage": 575,
+      "CarPrice": "35146",
+      "RentalPrice": "49",
+      "DateOfLastMaintenance": "2011-02-16T21:00:00.000Z",
+      "MarkId": 8
+    },
+    {
+      "Id": 3,
+      "TechnicalSpecification": "Max speed 250.",
+      "RegistryNumber": 1555,
+      "Description": "Brown",
+      "BodyNumber": "81918",
+      "EngineNumber": "882",
+      "YearOfRelease": 1988,
+      "Mileage": 2870,
+      "CarPrice": "37217",
+      "RentalPrice": "922",
+      "DateOfLastMaintenance": "2009-11-27T21:00:00.000Z",
+      "MarkId": 6
+    },
+    {
+      "Id": 4,
+      "TechnicalSpecification": "Max speed 250.",
+      "RegistryNumber": 3214,
+      "Description": "Brown",
+      "BodyNumber": "56087",
+      "EngineNumber": "127",
+      "YearOfRelease": 1985,
+      "Mileage": 831,
+      "CarPrice": "35437",
+      "RentalPrice": "973",
+      "DateOfLastMaintenance": "2004-02-28T21:00:00.000Z",
+      "MarkId": 3
+    },
+    {
+      "Id": 5,
+      "TechnicalSpecification": "Max speed 110.",
+      "RegistryNumber": 2866,
+      "Description": "Yellow",
+      "BodyNumber": "76756",
+      "EngineNumber": "904",
+      "YearOfRelease": 2009,
+      "Mileage": 2251,
+      "CarPrice": "6729",
+      "RentalPrice": "330",
+      "DateOfLastMaintenance": "2011-04-17T20:00:00.000Z",
+      "MarkId": 6
+    },
+    {
+      "Id": 6,
+      "TechnicalSpecification": "Max speed 110.",
+      "RegistryNumber": 4710,
+      "Description": "Yellow",
+      "BodyNumber": "80020",
+      "EngineNumber": "111",
+      "YearOfRelease": 1985,
+      "Mileage": 831,
+      "CarPrice": "18330",
+      "RentalPrice": "481",
+      "DateOfLastMaintenance": "1987-07-08T20:00:00.000Z",
+      "MarkId": 7
+    },
+    {
+      "Id": 7,
+      "TechnicalSpecification": "Max speed 140.",
+      "RegistryNumber": 7113,
+      "Description": "Yellow",
+      "BodyNumber": "76756",
+      "EngineNumber": "882",
+      "YearOfRelease": 2001,
+      "Mileage": 575,
+      "CarPrice": "6729",
+      "RentalPrice": "548",
+      "DateOfLastMaintenance": "2007-10-18T20:00:00.000Z",
+      "MarkId": 6
+    },
+    {
+      "Id": 8,
+      "TechnicalSpecification": "Max speed 110.",
+      "RegistryNumber": 2041,
+      "Description": "Brown",
+      "BodyNumber": "99812",
+      "EngineNumber": "882",
+      "YearOfRelease": 1999,
+      "Mileage": 7587,
+      "CarPrice": "35897",
+      "RentalPrice": "548",
+      "DateOfLastMaintenance": "1994-11-09T21:00:00.000Z",
+      "MarkId": 6
+    },
+    {
+      "Id": 9,
+      "TechnicalSpecification": "Max speed 250.",
+      "RegistryNumber": 1876,
+      "Description": "Brown",
+      "BodyNumber": "36791",
+      "EngineNumber": "904",
+      "YearOfRelease": 1993,
+      "Mileage": 2870,
+      "CarPrice": "35146",
+      "RentalPrice": "973",
+      "DateOfLastMaintenance": "2003-07-20T20:00:00.000Z",
+      "MarkId": 6
+    },
+    {
+      "Id": 10,
+      "TechnicalSpecification": "Max speed 140.",
+      "RegistryNumber": 7621,
+      "Description": "Yellow",
+      "BodyNumber": "80020",
+      "EngineNumber": "116",
+      "YearOfRelease": 2009,
+      "Mileage": 2251,
+      "CarPrice": "37860",
+      "RentalPrice": "49",
+      "DateOfLastMaintenance": "1994-11-09T21:00:00.000Z",
+      "MarkId": 8
+    }
+  ],
+  "Clients": [
+    {
+      "Id": 1,
+      "FullName": "Алексеев Евдоким",
+      "Adress": "Belarus, 66",
+      "PhoneNumber": "+375296373201",
+      "Passport": "4546 777316"
+    },
+    {
+      "Id": 2,
+      "FullName": "Ерёменко Рафаил",
+      "Adress": "Belarus, 11",
+      "PhoneNumber": "+375293908529",
+      "Passport": "4361 510084"
+    },
+    {
+      "Id": 3,
+      "FullName": "Грабчак Чарльз",
+      "Adress": "Belarus, 87",
+      "PhoneNumber": "+375255590158",
+      "Passport": "4464 984392"
+    },
+    {
+      "Id": 4,
+      "FullName": "Бирюков Ян",
+      "Adress": "Belarus, 35",
+      "PhoneNumber": "+375255759130",
+      "Passport": "4114 741031"
+    },
+    {
+      "Id": 5,
+      "FullName": "Лазарев Шарль",
+      "Adress": "Belarus, 11",
+      "PhoneNumber": "+375293908529",
+      "Passport": "4073 490158"
+    }
+  ],
+  "Orders": [
+    {
+      "Id": 1,
+      "Refunded": "true",
+      "DateOfIssue": "2014-10-25T20:00:00.000Z",
+      "DateOfRefund": "2014-11-20T21:00:00.000Z",
+      "Duration": 78,
+      "CarId": 1,
+      "ClientId": 2,
+      "WorkerId": 7
+    },
+    {
+      "Id": 2,
+      "Refunded": "false",
+      "DateOfIssue": "2002-10-01T20:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 68,
+      "CarId": 2,
+      "ClientId": 2,
+      "WorkerId": 4
+    },
+    {
+      "Id": 3,
+      "Refunded": "false",
+      "DateOfIssue": "2004-09-24T20:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 71,
+      "CarId": 2,
+      "ClientId": 4,
+      "WorkerId": 5
+    },
+    {
+      "Id": 4,
+      "Refunded": "true",
+      "DateOfIssue": "2000-06-27T20:00:00.000Z",
+      "DateOfRefund": "2000-07-24T20:00:00.000Z",
+      "Duration": 71,
+      "CarId": 1,
+      "ClientId": 2,
+      "WorkerId": 2
+    },
+    {
+      "Id": 5,
+      "Refunded": "true",
+      "DateOfIssue": "2012-08-11T20:00:00.000Z",
+      "DateOfRefund": "2012-08-22T20:00:00.000Z",
+      "Duration": 80,
+      "CarId": 8,
+      "ClientId": 1,
+      "WorkerId": 3
+    },
+    {
+      "Id": 6,
+      "Refunded": "true",
+      "DateOfIssue": "2016-01-10T21:00:00.000Z",
+      "DateOfRefund": "2016-01-24T21:00:00.000Z",
+      "Duration": 68,
+      "CarId": 4,
+      "ClientId": 4,
+      "WorkerId": 3
+    },
+    {
+      "Id": 7,
+      "Refunded": "true",
+      "DateOfIssue": "2019-06-13T21:00:00.000Z",
+      "DateOfRefund": "2019-06-29T21:00:00.000Z",
+      "Duration": 49,
+      "CarId": 4,
+      "ClientId": 1,
+      "WorkerId": 4
+    },
+    {
+      "Id": 8,
+      "Refunded": "true",
+      "DateOfIssue": "2017-08-23T21:00:00.000Z",
+      "DateOfRefund": "2017-09-05T21:00:00.000Z",
+      "Duration": 0,
+      "CarId": 1,
+      "ClientId": 1,
+      "WorkerId": 1
+    },
+    {
+      "Id": 9,
+      "Refunded": "true",
+      "DateOfIssue": "2004-09-24T20:00:00.000Z",
+      "DateOfRefund": "2004-09-27T20:00:00.000Z",
+      "Duration": 43,
+      "CarId": 6,
+      "ClientId": 3,
+      "WorkerId": 9
+    },
+    {
+      "Id": 10,
+      "Refunded": "true",
+      "DateOfIssue": "2002-10-01T20:00:00.000Z",
+      "DateOfRefund": "2002-10-14T20:00:00.000Z",
+      "Duration": 71,
+      "CarId": 9,
+      "ClientId": 5,
+      "WorkerId": 2
+    },
+    {
+      "Id": 11,
+      "Refunded": "false",
+      "DateOfIssue": "2000-06-27T20:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 70,
+      "CarId": 9,
+      "ClientId": 5,
+      "WorkerId": 6
+    },
+    {
+      "Id": 12,
+      "Refunded": "false",
+      "DateOfIssue": "2006-11-19T21:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 70,
+      "CarId": 6,
+      "ClientId": 5,
+      "WorkerId": 5
+    },
+    {
+      "Id": 13,
+      "Refunded": "true",
+      "DateOfIssue": "2006-11-19T21:00:00.000Z",
+      "DateOfRefund": "2006-12-09T21:00:00.000Z",
+      "Duration": 62,
+      "CarId": 9,
+      "ClientId": 2,
+      "WorkerId": 6
+    },
+    {
+      "Id": 14,
+      "Refunded": "false",
+      "DateOfIssue": "2016-06-28T21:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 13,
+      "CarId": 8,
+      "ClientId": 5,
+      "WorkerId": 8
+    },
+    {
+      "Id": 15,
+      "Refunded": "true",
+      "DateOfIssue": "2019-06-13T21:00:00.000Z",
+      "DateOfRefund": "2019-06-29T21:00:00.000Z",
+      "Duration": 45,
+      "CarId": 3,
+      "ClientId": 4,
+      "WorkerId": 1
+    },
+    {
+      "Id": 16,
+      "Refunded": "true",
+      "DateOfIssue": "2012-07-22T20:00:00.000Z",
+      "DateOfRefund": "2012-08-17T20:00:00.000Z",
+      "Duration": 52,
+      "CarId": 3,
+      "ClientId": 5,
+      "WorkerId": 4
+    },
+    {
+      "Id": 17,
+      "Refunded": "true",
+      "DateOfIssue": "2018-05-29T21:00:00.000Z",
+      "DateOfRefund": "2018-06-11T21:00:00.000Z",
+      "Duration": 70,
+      "CarId": 1,
+      "ClientId": 1,
+      "WorkerId": 1
+    },
+    {
+      "Id": 18,
+      "Refunded": "false",
+      "DateOfIssue": "2016-01-10T21:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 71,
+      "CarId": 8,
+      "ClientId": 2,
+      "WorkerId": 10
+    },
+    {
+      "Id": 19,
+      "Refunded": "true",
+      "DateOfIssue": "2003-04-05T20:00:00.000Z",
+      "DateOfRefund": "2003-05-03T20:00:00.000Z",
+      "Duration": 49,
+      "CarId": 2,
+      "ClientId": 4,
+      "WorkerId": 5
+    },
+    {
+      "Id": 20,
+      "Refunded": "false",
+      "DateOfIssue": "2003-04-05T20:00:00.000Z",
+      "DateOfRefund": null,
+      "Duration": 13,
+      "CarId": 2,
+      "ClientId": 5,
+      "WorkerId": 2
+    }
+  ]
+}

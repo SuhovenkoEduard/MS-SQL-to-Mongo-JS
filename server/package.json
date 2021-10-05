@@ -1,0 +1,17 @@
+{
+  "name": "mongo_db_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cls && nodemon src/index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "nodemon": "^2.0.13"
+  }
+}
