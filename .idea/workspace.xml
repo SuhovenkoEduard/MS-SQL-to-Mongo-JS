@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0f968649-81ec-4754-980b-f7879a2e6a4f" name="Default Changelist" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +73,7 @@
       <workItem from="1633440266644" duration="2313000" />
       <workItem from="1633448413994" duration="528000" />
       <workItem from="1633449051026" duration="55000" />
+      <workItem from="1633522729824" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1633448488235</created>
@@ -76,6 +95,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
@@ -86,10 +116,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1243" y="309" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1633440690996" />
-    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1633449104908">
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1633522767410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633449104908" />
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633522767410" />
     <state x="1318" y="417" key="Github.ShareDialog" timestamp="1633448524349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -162,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="884" y="230" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1633441657958" />
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633448808053">
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633522747522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633448808053" />
+    <state x="1032" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633522747522" />
     <state x="1215" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1633448473622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
