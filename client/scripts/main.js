@@ -25,7 +25,7 @@ async function getData(params) {
   } else {
     if (params.FROM_FILE) {
       let jsonString = await ((await fetch('./res/data.json')).text());
-      result = JSON.parse(jsonString);
+      result = RestoreFromJson.castToDate(JSON.parse(jsonString));
     } else {
       let dataFromDatabase = await getDataFromServer(SERVER_URL, MONGO_URL);
       result = RestoreFromJson.castToDate(dataFromDatabase);
