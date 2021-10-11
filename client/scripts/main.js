@@ -6,6 +6,7 @@ import getDataFromServer from "./mongo/mongo.js";
 
 const GLOBAL_PARAMS = {
   GENERATED: false,
+  FROM_FILE: true
 };
 
 const DEBUG_PARAMS = {
@@ -22,10 +23,13 @@ async function getData(params) {
   if (params.GENERATED) {
     result = GeneratedData.createNext();
   } else {
-    let dataFromDatabase = await getDataFromServer(SERVER_URL, MONGO_URL);
-
-    //let jsonString = await ((await fetch('./res/data.json')).text());
-    result = RestoreFromJson.castToDate(dataFromDatabase);
+    if (params.FROM_FILE) {
+      let jsonString = await ((await fetch('./res/data.json')).text());
+      result = JSON.parse(jsonString);
+    } else {
+      let dataFromDatabase = await getDataFromServer(SERVER_URL, MONGO_URL);
+      result = RestoreFromJson.castToDate(dataFromDatabase);
+    }
   }
   return result;
 }
